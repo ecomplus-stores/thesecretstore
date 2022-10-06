@@ -12,7 +12,7 @@
       "collection_id": "613134a8bc468331cbd9bd1c:categories:Vouchers:/vouchers",
       "sort": "views",
       "title": "",
-      "headless": false,
+      "headless": true,
       "limit": 12,
       "page": 1
     }
