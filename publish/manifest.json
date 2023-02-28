@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9d29e3be64884cb2c8539a1f168ef144.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.69a6296df96f856ec18256e33b8345e8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.30d5654b57700bcae0ef53c744e1e81b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.25169ad0b0c328f8024477611ed583a6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9a52200098b6d81184f18e4e2aff156e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "The Secret Store",
+  "short_name": "The Secret Store",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A forma mais elegante e simples de acessar os mais prazerosos locais, ao alcance de seus dedos... Aproveite!",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
